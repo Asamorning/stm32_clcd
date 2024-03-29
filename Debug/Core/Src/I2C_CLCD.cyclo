@@ -1,0 +1,16 @@
+../Core/Src/I2C_CLCD.c:5:6:I2C_CLCD_Delay_us	2
+../Core/Src/I2C_CLCD.c:12:6:I2C_CLCD_SendByte	5
+../Core/Src/I2C_CLCD.c:41:6:I2C_CLCD_init	3
+../Core/Src/I2C_CLCD.c:60:6:I2C_CLCD_GotoXY	1
+../Core/Src/I2C_CLCD.c:65:6:I2C_CLCD_PutC	3
+../Core/Src/I2C_CLCD.c:82:6:I2C_CLCD_PutStr	2
+../Core/Src/I2C_CLCD.c:87:6:I2C_CLCD_Cursor	1
+../Core/Src/I2C_CLCD.c:91:6:I2C_CLCD_Right	1
+../Core/Src/I2C_CLCD.c:94:6:I2C_CLCD_Left	1
+../Core/Src/I2C_CLCD.c:98:6:I2C_CLCD_ShiftStop	1
+../Core/Src/I2C_CLCD.c:102:6:I2C_CLCD_CustomFont	7
+../Core/Src/I2C_CLCD.c:118:6:I2C_CLCD_Progressbar	3
+../Core/Src/I2C_CLCD.c:146:6:I2C_CLCD_CG_ClearBuffer	1
+../Core/Src/I2C_CLCD.c:150:6:I2C_CLCD_CG_ScrollLeft	2
+../Core/Src/I2C_CLCD.c:155:6:I2C_CLCD_CG_DrawPixel	1
+../Core/Src/I2C_CLCD.c:159:6:I2C_CLCD_CG_Update	5
